@@ -15,3 +15,6 @@ for row in reader:
 
 print("No of Europe is %d" %counter)
 print("total number of items sold is %d" %total)
+
+X = hello world
+print (X)
